@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshika Mittal</h1>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="coding" align="right" width="400" />
+<img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" alt="coding" align="right" width="400" />
 <h3 align="left">### 🚀 About Me: -</h3>
 <h4> 💻 I love coding, especially in React js.</h4> 
 <h4>- 🎯 I’m currently working on BuzzBook.</h4> 
